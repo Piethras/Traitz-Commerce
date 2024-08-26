@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026403211685",
+    "project_id": "trade-payment",
+    "storage_bucket": "trade-payment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026403211685:android:57e4e299821d7bbe6eb04c",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfMbX8DKwV6gSXpml7BLQ5-mSSS4Ow7N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
